@@ -26,6 +26,8 @@ A curated list of awesome networking libraries, resources and shiny things.
   - [Android VpnService](http://developer.android.com/reference/android/net/VpnService.html)
   - [Network Extension](https://developer.apple.com/videos/wwdc/2015/?id=717)
 
+  - [Handshaked UDP](https://github.com/kewl-ua/handshaked_udp) - C library for bidirectional UDP sessions between a client behind CGNAT and a public server, with keep-alives, connection migration and automatic reconnection.
+
 - Cryptography
   - [Cryptography](http://online.stanford.edu/course/cryptography)
   - [Block cipher mode of operation](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation)
